@@ -17,7 +17,7 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/Kingdragony/GREAT-EMPEROR";
+global.github=process.env.GITHUB|| "https://github.com/EX-RADIATION/SuhailX";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/734956fb3e2c159f0b9cb.jpg" || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/images (6).jpeg?raw=true" ; // SET LOGO FOR IMAGE 
