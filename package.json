@@ -17,16 +17,16 @@
         "test": "node test.js"
     },
     "keywords": [],
-    "homepage": "https://github.com/Opaksfire/FIRE-MD/",
+    "homepage": "https://github.com/Arlo-dragony/SuhailX/",
     "author": {
-        "name": "OPAKSFIRE"
+        "name": "suhailx"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Opaksfire/FIRE-MD.git"
+        "url": "git+https://github.com/Arlo-dragony/SuhailX.git"
     },
     "bugs": {
-        "url": "https://github.com/Opaksfire/FIRE-MD/issues"
+        "url": "https://github.com/Arlo-dragony/SuhailX/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
